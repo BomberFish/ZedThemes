@@ -3,6 +3,7 @@ Themes for Zed.
 Includes:
 - Dark+: From the original repo. A port of the default theme from Visual Studio Code.
 - Catppuccin Mocha Mauve: What did you think? My own work.
+- Hot Dog Stand: The GOAT 🐐
 
 Usage:
 - Install to ~/.config/zed/themes.
